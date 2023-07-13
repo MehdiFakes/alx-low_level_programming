@@ -2,6 +2,8 @@
 /**
  * main - Entry point
  *
+ * Descriptions A C program that prints with puts function
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
