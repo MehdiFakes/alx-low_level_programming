@@ -16,7 +16,7 @@ int main(void)
 		d2 = 0;
 		while (d2 <= 9)
 		{
-			if (d1 != d2 && d1 > d2)
+			if (d1 != d2 && d1 < d2)
 			{
 				putchar(d1 + 48);
 				putchar(d2 + 48);
