@@ -5,7 +5,8 @@
  *
  * @n: Takes int type input for fun
  *
- * Return: 1 if +, -1 if - else 0*/
+ * Return: 1 if +, -1 if - else 0
+*/
 
 int print_sign(int n)
 {
