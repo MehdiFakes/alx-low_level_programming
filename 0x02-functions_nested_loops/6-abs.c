@@ -1,7 +1,7 @@
 #include <main.h>
 
 /**
- * main - entry point
+ * _abs - entry point
  *
  * @i: always positive
  *
@@ -10,12 +10,12 @@
 
 int _abs(int i)
 {
-	if (i =< 0)
+	if (i >= 0)
 	{
 		return (i);
 	}
 	else
 	{
-		return (i* -1);
+		return (i * -1);
 	}
 }
