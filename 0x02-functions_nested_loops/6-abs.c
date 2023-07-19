@@ -1,4 +1,4 @@
-#include <main.h>
+#include "main.h"
 
 /**
  * _abs - entry point
@@ -18,5 +18,4 @@ int _abs(int i)
 	{
 		return (i * -1);
 	}
-	_putchar('\n');
 }
