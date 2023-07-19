@@ -1,12 +1,11 @@
 #include "main.h"
 
 /**
- * sign.c - Entry point
+ * print_sign - Entry point
  *
- * @n: The input num as int
+ * @n: Takes int type input for fun
  *
- * Return: Always 0
- */
+ * Return: 1 if +, -1 if - else 0*/
 
 int print_sign(int n)
 {
