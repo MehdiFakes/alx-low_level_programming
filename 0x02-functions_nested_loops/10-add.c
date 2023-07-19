@@ -1,14 +1,17 @@
 #include "main.h"
 
 /**
- * add - sum of two numbers
+ * add - add two numbers
  *
- * return: sum
+ * @a: first input
+ * @b: second inp
+ *
+ * Return: sum
 */
 
 int add(int a, int b)
 {
 	int sum = a + b;
-	
+
 	return (sum);
 }
