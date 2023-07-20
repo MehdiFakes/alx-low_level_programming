@@ -7,12 +7,8 @@ int main(void)
 {
 	int i;
 
-	if (i >= 0)
-	{
-		printf("i is positive")
-	}
-	i = 0;
-	positive_or_negative(i);
+	i = 98 % 2;
+	psitive_or_negative(i);
 
 	return (0);
 }
