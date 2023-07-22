@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * more_numbers - 10* from 0 to 14
+ * more_numbers - 10 * from 0 to 14
  *
  * Return: numberes
  */
@@ -10,7 +10,7 @@ void more_numbers(void)
 {
 	int i, j, k;
 
-	for (j = 49; j <= 59; j++)
+	for (j = 1; j <= 10; j++)
 	{
 		for (k = 0; k <= 14; k++)
 		{
