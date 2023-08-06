@@ -2,9 +2,9 @@
 #include<stdlib.h>
 
 /**
- * main-print sum of 2 numbers.
- * @args:number of cmd line argum
- * @agrv:pointer to an arr of cmd lin arg
+ * main - print sum of 2
+ * @argc: num of cmd line arg.
+ * @argv: pointer of cmd l arg.i
  * Return: 0
  */
 
